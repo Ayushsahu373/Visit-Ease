@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148637454651",
+    "project_id": "visit-ease",
+    "storage_bucket": "visit-ease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148637454651:android:cbeeafae805529fe9d271e",
+        "android_client_info": {
+          "package_name": "com.example.visit_ease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXKp0ChSpkBDuvCr_OZX1A9vpT1yHawCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
